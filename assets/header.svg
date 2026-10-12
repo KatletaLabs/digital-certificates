@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Katleta Research — Digital Certificates</title>
+<desc id="desc">A record of completed cybersecurity training.</desc>
+<rect width="1200" height="260" rx="12" fill="#0D1117"/>
+<path d="M48 48v164" stroke="#7EE787" stroke-width="3"/>
+<text x="76" y="73" fill="#7EE787" font-family="monospace" font-size="16" letter-spacing="3">KATLETA RESEARCH / LEARNING RECORD</text>
+<text x="74" y="143" fill="#E6EDF3" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700">Digital Certificates</text>
+<text x="76" y="187" fill="#9DA7B3" font-family="Arial,Helvetica,sans-serif" font-size="20">Cybersecurity training · Original documents · Clear provenance</text>
+<path d="M1040 77h64v79l-32 23-32-23z" fill="none" stroke="#30363D" stroke-width="2"/>
+<path d="m1056 123 11 11 21-26" fill="none" stroke="#7EE787" stroke-width="3"/>
+</svg>
